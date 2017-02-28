@@ -28,7 +28,7 @@
     "react-custom-scrollbars": "4.0.1",
     "react-dom": "15.4.2",
     "react-intl": "2.2.3",
-    "react-router": "2.8.1",
+    "react-router": "2.8.1", 
     "react-select": "1.0.0-rc.3",
     "superagent": "3.4.1",
     "twemoji": "2.2.3",
